@@ -1,0 +1,9 @@
+Proceso Ejercicio_2
+	Escribir "Ingrese un numero";
+	leer n;
+	subN<-n;
+	para x=1 hasta n con paso 1 Hacer
+		Escribir subN;
+		subN<-subN-1;
+	FinPara
+FinProceso
